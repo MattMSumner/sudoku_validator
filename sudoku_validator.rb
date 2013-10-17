@@ -1,0 +1,3 @@
+class SudokuValidator
+
+end
